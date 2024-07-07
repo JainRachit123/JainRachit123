@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @JainRachit123
 - 👀 I’m interested in Embedded Systems
-- 🌱 I’m currently learning Data Structures
-- 💞️ I’m looking to collaborate on Real Time Embedded Systems Projects
+- 💞️ I’m looking to collaborate on Real-Time Embedded Systems Projects
 - 📫 How to reach me jainrachit12398@gmail.com
 
 <!---
